@@ -1,0 +1,29 @@
+---
+import Card from "./Card.astro";
+import games from "../data/games.json";
+---
+
+<section>
+  <div class="card-grid">
+    {
+      games.map((game) => (
+        <Card
+          title={game.title}
+          image={game.image}
+          isKeyCardEU={game.isKeyCardEU}
+          isKeyCardUSA={game.isKeyCardUSA}
+          isKeyCardASIA={game.isKeyCardASIA}
+        />
+      ))
+    }
+  </div>
+
+  <style>
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      padding: 32px;
+    }
+  </style>
+</section>
