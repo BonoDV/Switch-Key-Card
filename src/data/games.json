@@ -1,125 +1,125 @@
 [
   {
     "title": "Donkey Kong Bananza",
-    "image": "src/img/dk-bananza.png",
+    "image": "/img/dk-bananza.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Mario Kart World",
-    "image": "src/img/mk-world.png",
+    "image": "/img/mk-world.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Bravely Default Flying Fairy",
-    "image": "src/img/bd-ff.png",
+    "image": "/img/bd-ff.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true,
     "isKeyCardASIA": true
   },
   {
     "title": "Yakuza 0 Director's Cut",
-    "image": "src/img/yakuza-0.png",
+    "image": "/img/yakuza-0.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true,
     "isKeyCardASIA": true
   },
   {
     "title": "Cyberpunk 2077: Ultimate Edition",
-    "image": "src/img/cyberpunk-2077.png",
+    "image": "/img/cyberpunk-2077.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Daemon X Machina: Titanic Scion",
-    "image": "src/img/daemon-2.png",
+    "image": "/img/daemon-2.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": true
   },
   {
     "title": "The Legend of Zelda Breath of the Wild - NSW2 Edition",
-    "image": "src/img/zelda-breath.png",
+    "image": "/img/zelda-breath.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "The Legend of Zelda Tears of the Kingdom - NSW2 Edition",
-    "image": "src/img/zelda-tears.png",
+    "image": "/img/zelda-tears.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Kirby y la Tierra Olvidada - NSW2 Edition",
-    "image": "src/img/kirby-forgotten-land.png",
+    "image": "/img/kirby-forgotten-land.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Street Fighter 6 Year 1-2 Fighters Edition",
-    "image": "src/img/sf-y-12.png",
+    "image": "/img/sf-y-12.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true,
     "isKeyCardASIA": true
   },
   {
     "title": "Super Mario Party Jamboree - NSW2 Edition",
-    "image": "src/img/mario-party-jamboree.png",
+    "image": "/img/mario-party-jamboree.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Story of Seasons: Grand Bazaar",
-    "image": "src/img/story-seasons-grand-bazaar.png",
+    "image": "/img/story-seasons-grand-bazaar.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "Rune Factory: Guardians of Azuma",
-    "image": "src/img/rune-factory.png",
+    "image": "/img/rune-factory.png",
     "isKeyCardEU": false,
     "isKeyCardUSA": false,
     "isKeyCardASIA": false
   },
   {
     "title": "RAIDOU Remastered The Mystery of the Soulless Army",
-    "image": "src/img/raidou.png",
+    "image": "/img/raidou.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true,
     "isKeyCardASIA": true
   },
   {
     "title": "HITMAN World of Assassiation Signature Edition",
-    "image": "src/img/hitman.png",
+    "image": "/img/hitman.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true,
     "isKeyCardASIA": true
   },
   {
     "title": "Star Wars Outlaws Gold Edition",
-    "image": "src/img/star-wars-outlaws.png",
+    "image": "/img/star-wars-outlaws.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true
   },
   {
     "title": "Sonic X Shadows Generations",
-    "image": "src/img/sonic-shadow.png",
+    "image": "/img/sonic-shadow.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true,
     "isKeyCardASIA": true
   },
   {
     "title": "EA SPORTS Madden NFL 26",
-    "image": "src/img/madden-nfl-26.png",
+    "image": "/img/madden-nfl-26.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true
   }
