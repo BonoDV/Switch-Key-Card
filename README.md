@@ -1,4 +1,5 @@
-# Proyecto Web con Astro y JavaScript
+# Switch Key Card
+![MockUp de la web](https://github.com/BonoDV/Switch-Key-Card/blob/7eb13319a45a192ccda14bd152e891894b5f0d90/public/github_mockup.png)
 
 Web desarrollada con Astro y JavaScript para consultar los videojuegos de Nintendo Switch 2 que vendrán en formato Key Card y los que no, dividido por 3 regiones.<br> 
 🔑 **Key Card** <br>
