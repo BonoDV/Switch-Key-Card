@@ -12,6 +12,7 @@
     "@astrojs/react": "^4.2.7",
     "@types/react": "^19.1.4",
     "@types/react-dom": "^19.1.5",
+    "@vercel/analytics": "^1.5.0",
     "astro": "^5.7.13",
     "astro-icon": "^1.1.5",
     "react": "^19.1.0",
