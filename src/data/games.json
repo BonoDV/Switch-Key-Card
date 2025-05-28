@@ -122,5 +122,12 @@
     "image": "/img/madden-nfl-26.png",
     "isKeyCardEU": true,
     "isKeyCardUSA": true
+  },
+  {
+    "title": "Dragon Quest I & II HD-2D Remake",
+    "image": "/img/dq-1-2-hd.png",
+    "isKeyCardEU": true,
+    "isKeyCardUSA": true,
+    "isKeyCardASIA": true
   }
 ]
